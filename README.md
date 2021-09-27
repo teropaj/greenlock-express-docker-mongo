@@ -2,5 +2,5 @@
 
 Put you email into server.js
 
-docker-copose up
+docker-compose up
 
